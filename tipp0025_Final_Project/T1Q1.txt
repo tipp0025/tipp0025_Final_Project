@@ -1,0 +1,4 @@
+1 - cd Documents/code
+2 - mkdir tipp0025_Final_Project
+3 - touch T1Q1.txt
+4 - To make  alias -- add "cd /Users/jordantippins/Documents/code/tipp0025_Final_Project" associated with FinalProject to relevant file

@@ -1,0 +1,1 @@
+To navigate to the desired directory using this alias, simply enter FinalProject in the terminal
